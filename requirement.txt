@@ -1,0 +1,4 @@
+elastalert>=0.2.1
+jira==2.0.0
+alerta-server>=7.4.1
+alerta>=7.4.0
